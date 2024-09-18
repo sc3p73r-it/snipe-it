@@ -1,4 +1,4 @@
 #Snipe IT IT Asset Management System
-![image](./assets/img/dashboard.png)
+![image](snipe-it/assets/img/dashboard.png)
 
 
